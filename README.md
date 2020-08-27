@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hey 👋, I'm Jackson Ogles! I'm a Software Engineer from Salt Lake City, Ut.
+I have a psychology background and after working in child welfare casework for some time I found out just how fun computer science is! I attended Lambda School's 1 year software engineering training program and I haven't looked back! Web development is just too much fun!
 
-<!--
-**cjogles/cjogles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
+<a href='https://www.linkedin.com/in/cjogles/'>
+    <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'/></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png'/></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'/></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" /></code>
+
+### About Me:
+- <a href='https://www.jacksonogles.com/'>
+    Check out my Portfolio to learn more about my work and who I am.
+</a>
+- I'm looking to work as a mid level front end or back end engineer for a company in Utah. 
