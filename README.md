@@ -1,4 +1,4 @@
-### Hey 👋, I'm Jackson Ogles! I'm a Software Engineer from Salt Lake City, Ut.
+### Hey 👋, I'm Jackson Ogles! I'm a Software Engineer from Salt Lake City, UT.
 I have a psychology background and after working in child welfare casework for some time I found out just how fun computer science is! I attended Lambda School's 1 year software engineering training program and I haven't looked back! Web development is just too much fun!
 
 ### Connect with me:
