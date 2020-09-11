@@ -22,4 +22,4 @@ I have a psychology background and after working in child welfare casework for s
 - <a href='https://jacksonogles.com/'>
     Check out my Portfolio to learn more about my work and who I am.
 </a>
-- I'm looking to work as a mid level front end or back end engineer for a company in Utah. 
+- I'm looking to work as a mid level front end or back end engineer for a company in Utah. Or remote internships anywhere!
