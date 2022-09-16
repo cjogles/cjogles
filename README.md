@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a driven web developer interested in staying current on modern web technologies.
+
+- View my [linkedin profile](https://www.linkedin.com/in/cjogles/) for my current and past work experiences.
+- View my [work website](/) for more details on my past and current work contributions and interests.
+- View my [personal website](/) for more details on my past and current personal interests.
+
 <!--
 **cjogles/cjogles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
