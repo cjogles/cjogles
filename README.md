@@ -3,10 +3,12 @@
 I am a driven web developer interested in staying current on modern web technologies.
 
 - View my [linkedin profile](https://www.linkedin.com/in/cjogles/) to view my work experiences.
+
+<!--
+add these later
 - View my [work website](/) to view my work contributions and interests.
 - View my [personal website](/) to view my personal interests.
 
-<!--
 **cjogles/cjogles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
